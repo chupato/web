@@ -24,7 +24,7 @@
   },
   "devDependencies": {
     "react-hot-loader": "^1.2.7",
-    "webpack-dev-server": "^1.9.0"
+    "webpack-dev-server": "^3.10.3"
   },
   "repository": {
     "type": "git",
