@@ -18,7 +18,7 @@
     "leaflet": "^1.0.0-beta.1",
     "lodash-cli": "^3.10.0",
     "material-design-icons": "^2.0.0",
-    "react": "^0.13.3",
+    "react": "^16.13.1",
     "webpack": "^1.9.10",
     "webpack-merge": "^0.1.1"
   },
